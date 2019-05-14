@@ -2,8 +2,6 @@
 A Simple Implementation of the Conway's Game of Life.
 
 ![Alt Text](animation.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
-
 
 Automata.py contains the functions:
 1. life: performs n iterations on a given array-like 2D square lattice and returns the final lattice configuration. Boundary conditions can be specified as periodic or non-periodic.
